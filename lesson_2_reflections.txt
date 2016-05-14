@@ -8,4 +8,10 @@ The staging area works as an intermidiate between the working directory and the 
 because it helps you decide what files you are about to commit.
 
 How can you use the staging area to make sure you have one commit per logical change?
-Cheking out the staging area with the 'git status' command in order to find if there is any other file uncommited.
+Cheking out the staging area with the 'git status' command in order to find if there is
+any other file uncommited.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+When you want to make unofficial changes to a file, but you want to keep control of other
+versions of the same file
