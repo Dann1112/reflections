@@ -18,3 +18,7 @@ versions of the same file
 
 How do the diagrams help you visualize the branch structure?
 Helps you identyfing which commits are part of every branch and how the structure is
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+One version of a file and its represented like that because it mixes both versions creating
+only one and putting all of their respective commits together
