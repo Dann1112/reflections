@@ -14,3 +14,6 @@ So you can work offline with the latest state of your repository
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It would be so much harder because there would be no control in versions of files. So there would be lots of versions and every collaborator would have a different one.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I think it is necessary because you want to be sure about the changes you are about to make, and Github allows you to share your code with people who might know how to solve a problem you have or maybe just to give you feedback.
